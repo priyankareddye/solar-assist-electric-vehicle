@@ -1,4 +1,5 @@
 # Solar Assist Electric Vehicle
+> 🚀 Solar-assisted EV project focused on improving energy efficiency using photovoltaic integration and load optimization.
 
 This project focuses on utilizing solar energy to enhance the efficiency of electric vehicles by integrating photovoltaic systems with battery-powered EV technology.
 
@@ -38,6 +39,23 @@ Solar-assisted electric vehicles provide an eco-friendly alternative to conventi
 
 ## Future Scope
 Solar EV technology has strong future potential. With advancements in solar efficiency and battery technology, it can become a practical and sustainable transportation solution.
+
+## My Contribution
+- Designed solar-assisted EV system concept
+- Performed load distribution and energy analysis
+- Worked on system efficiency evaluation
+- Conducted testing and validation
+
+## Technologies Used
+- Electrical Power Systems
+- Solar Energy Systems (PV)
+- Load Analysis
+- System Testing & Validation
+
+## Key Results
+- Demonstrated improved energy efficiency using solar integration
+- Reduced dependency on battery-only power
+- Validated feasibility of solar-assisted EV systems
 
 ## Author
 Priyanka Erla
